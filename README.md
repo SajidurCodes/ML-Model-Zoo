@@ -10,7 +10,7 @@ This repository is intended to be a **one-stop resource** for anyone looking to 
 Key features:
 - Step-by-step implementations from scratch
 - Ready-to-run notebooks compatible with VS Code and Google Colab
-- Coverage from basic ML algorithms to deep learning models
+- Coverage from basic ML algorithms to deep learning models 
 - Clear explanations and comments for educational purposes
 
 ---
